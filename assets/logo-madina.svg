@@ -1,0 +1,14 @@
+<svg width="380" height="120" viewBox="0 0 380 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Crescent/Curve -->
+  <path d="M40 100 Q10 60 60 20 Q120 -10 200 40" stroke="#F7D354" stroke-width="7" fill="none"/>
+  <path d="M45 100 Q15 60 65 25 Q125 -5 200 45" stroke="#1a5d2b" stroke-width="4" fill="none"/>
+  <!-- Ka'bah -->
+  <rect x="70" y="40" width="60" height="60" rx="8" fill="#222" stroke="#222" stroke-width="2"/>
+  <rect x="70" y="65" width="60" height="10" fill="#F7D354"/>
+  <rect x="70" y="85" width="60" height="7" fill="#F7D354"/>
+  <!-- Pesawat (sederhana) -->
+  <polygon points="38,18 48,22 41,22 44,28 41,27 39,22 34,22" fill="#222"/>
+  <!-- Teks Brand -->
+  <text x="145" y="70" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="bold" fill="#1a5d2b" stroke="#F7D354" stroke-width="1.2" paint-order="stroke">Madina</text>
+  <text x="145" y="105" font-family="Inter, Arial, sans-serif" font-size="26" fill="#388e3c">Tour and Travel</text>
+</svg> 
